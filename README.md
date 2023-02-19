@@ -26,18 +26,11 @@ El proyecto consitía en realizar un modelo predictivo para la empresa ficticia 
 # Contenidos :
 ***
 
-  data:
-  
-  - Carpeta con los csv derivados de los tratamientos y la información que tenemos de la empresa.
-  
+ 
   EDA:
   
   - Carpeta con los archivos que contienen el EDA básico y la limpieza de los datos originales.
-  
-  Graficas:
-  
-  - Carpeta con gráficas que se usarán en la presentación.
-  
+
   Modelos:
   
   - Carpeta con los archivos correspondientes a los modelos de Random Forests más precisos.
@@ -50,9 +43,19 @@ El proyecto consitía en realizar un modelo predictivo para la empresa ficticia 
   
   - Carpeta con los archivos correspondientes a la fase de encoding y estandarización de los datos.
   
-  Prsentacion:
+  Presentacion:
   
   - Contiene un pdf con la parte visual de la presentación de nuestro proyecto.
+  
+   Data:
+  
+  - Carpeta con los csv derivados de los tratamientos y la información que tenemos de la empresa.
+  
+    
+  Graficas:
+  
+  - Carpeta con gráficas que se usarán en la presentación.
+ 
   
   
   # Integrantes :
